@@ -1,16 +1,14 @@
-# mLibTerrain
+# mLib
 
-A Library of Procedural Displacement Surface Operators for Sidefx HoudiniFX. 
-Currently in Beta Version. 
+Microbot Houdini Presets. Use them if you want. 
 
-- https://github.com/Doudini/mLibTerrain
+- https://github.com/Doudini/mLib
 - https://www.facebook.com/microbot23
 
 
 #### About
 
-mLibTerrain is a digital asset library for Sidefx Houdini.
-It Contains a Set of Artist Friendly Tools to generate Displacement Maps. 
+mLib is a set of tools and presets for Sidefx Houdini.
 
 
 #### Content
@@ -24,15 +22,6 @@ It Contains a Set of Artist Friendly Tools to generate Displacement Maps.
 - LICENSE	- Artist License
 
 
-#### Tools
-
-- Displacer		- Just a simple VOP to displace based on CD attribute
-- Fractal Noise		- Creates a Fractal Noise
-- FractalWithShaper	- Creates Fractal Noise with an additional Shaper Option
-- TerrainCometizer01	- Let's you create Comet and Asteroid Impacts
-- TerrainCometizer02 	- Let's you create Comet and Asteroid Impacts
-- Radial Gradient	- Simple Artist Friendly Gradients
-- Unified Fractal	- A Unified Fractal Noise Version.
 
 
 ### Quick Installation
@@ -64,10 +53,10 @@ The easiest way to do is to customize your
 
 
 ### Submit Bugs/Contact:
-I appreciate bug reports, RFEs (Request For Enhancement), or feedback of
+I dont offer any Support or guarantee the Tools will work. Some are actually broken and just 
 any kind. Feel free to contact me at mLib@microbot.ch
 
 
 ### qLib:
-Please also have a look at the famous qLib for Houdini at https://github.com/qLab/qLib
-It contains a lot of awesome Tools. Thanks to them I could make this Readme. ;)
+Please also install the qLib for Houdini https://github.com/qLab/qLib
+Some of the Assets and tools depend on it.
